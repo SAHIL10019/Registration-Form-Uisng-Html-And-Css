@@ -1,0 +1,27 @@
+body
+{
+  background-color:lightgreen;
+ }
+ h1
+ {
+	 text-align:center;
+	 color:blue;
+ }
+ form
+ {
+	 margin :20px auto;
+	 width:320px;
+	 
+ }
+ input
+ {
+	 padding:15px 10px ;
+	 margin-bottom:10px;
+	 border:2px blue;
+         
+ }
+ h2
+ {
+	 text-align:left-bottom;
+	 color:red;
+ }

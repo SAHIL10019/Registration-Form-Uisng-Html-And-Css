@@ -1,0 +1,28 @@
+<html>
+<head>
+<script>
+  document.write("Enter all details");
+</script>
+<link href="style.css"type="text/css"rel="stylesheet"/>
+</head>
+<body>
+<h1>Registration Form</h1>
+<form>
+<div>
+<input type="text" Placeholder="First Name">
+<input type="text" Placeholder="Last Name">
+<input type="email" Placeholder=" Email">
+<input type="password" Placeholder="Password">
+<input type="password" Placeholder="Confirm Password">
+</div>
+<br>
+<input type="radio" name="gender"/>Male
+<input type="radio" name="gender" />Female
+</br>
+<input type="submit" Placeholder="Submit">
+
+<h2>Created By Sahil</h2>
+
+</form>
+</body>
+</html>
